@@ -1,0 +1,1 @@
+git add * (adiciona todos os arquivos para o stage)
